@@ -1,9 +1,9 @@
-# Currency Converter - [PREVIEW](https://therealfarhandev.github.io/Currency-Converter)
+# Currency Converter - [LIVE](https://currency-converter-sandy-theta.vercel.app/)
 
 A simple real-time currency converter built with React, utilizing an external API for fetching exchange rates.
 
 ## Live Demo
-[Click here to view the live project](https://therealfarhandev.github.io/Currency-Converter)
+[Click here to view the live project](https://currency-converter-sandy-theta.vercel.app/)
 
 ## Screenshot
 
