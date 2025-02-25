@@ -5,6 +5,10 @@ A simple real-time currency converter built with React, utilizing an external AP
 ## Live Demo
 [Click here to view the live project](https://therealfarhandev.github.io/Currency-Converter)
 
+## Screenshot
+
+![Currency Converter Screenshot](./CurrencyConverter.png)
+
 ## Features
 
 - Real-time currency conversion between various currencies
@@ -76,7 +80,5 @@ The `src/components/` directory contains the main components of the application:
 
 This project fetches real-time exchange rates from an external API. Ensure you have a stable internet connection for the application to function correctly.
 
-## Screenshot
 
-![Currency Converter Screenshot](./CurrencyConverter.png)
 
